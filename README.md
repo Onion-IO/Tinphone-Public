@@ -23,7 +23,7 @@ To set up this bot, you'll need a valid discord bot token. Within main.py, navig
 
 **Made by Onion-IO**
 
-- [Discord] <p>&#x2661;onion#7770;&#x2661;<p>
+- [Discord] <p>&#x2661;onion&#x2661#7770;<p>
 
 **Due to the open-source nature of this bot** it is crucial to mention that the **official** and original TinPhone bot resides at: TinPhone#9630
 
