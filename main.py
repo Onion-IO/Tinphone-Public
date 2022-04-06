@@ -24,7 +24,7 @@ async def on_message(message):
             await message.channel.send(embed=embed)
             return
 
-        if message.content == '&Tadd':
+        if message.content == '&Tadd': #THIS WILL INVITE THE ORIGINAL TINPHONE BOT. If you would like to invite YOUR bot, a link can be found within the discord applications page.
             await message.channel.send('Use this link to add me to your server: https://discord.com/api/oauth2/authorize?client_id=960824698160185364&permissions=274878131200&scope=bot')
             return
 
@@ -88,5 +88,5 @@ async def on_message(message):
     
     else:
         return
-
+#Place your token here:
 client.run('')
