@@ -2,7 +2,7 @@
 
 <p align="center"><project-description></p>
 
-#TinPhone
+# TinPhone
 TinPhone is a simple discord bot framework, with the pre-packaged functionality to deliver anonymous messages to a requested channel
 
 ## Setup
@@ -23,7 +23,7 @@ To set up this bot, you'll need a valid discord bot token. Within main.py, navig
 
 **Made by Onion-IO**
 
-- [Discord] <p>&#x2661;onion#7770;#x2661;<p>
+- [Discord] <p>&#x2661;onion#7770;&#x2661;<p>
 
 **Due to the open-source nature of this bot** it is crucial to mention that the **official** and original TinPhone bot resides at: TinPhone#9630
 
